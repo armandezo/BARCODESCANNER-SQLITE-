@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">APLICACIÓN BARCODE</string>
+    <string name="title_activity_customer_add">Tambah Member</string>
+</resources>
