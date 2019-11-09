@@ -1,6 +1,6 @@
-# ParkirOnlineAkakom
+# BARCODE SCANNER
 
-Aplikasi Parkir Online - SQLite - Scan Barcode
+BARCODE SCANNER - SQLite - Scan Barcode
 
 username : admin
 password : admin123
